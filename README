@@ -1,0 +1,6 @@
+Tony Worm  2011
+
+Multi Dimensional support for slices in Go
+
+hope to implement this in the compiler or an extension eventually
+so multiple indexes are more like c-style accesses
